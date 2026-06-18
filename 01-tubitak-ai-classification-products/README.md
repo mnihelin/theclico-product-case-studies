@@ -50,6 +50,7 @@ This helped transform the models and TheClico LLM service outputs from technical
 * R&D productization processes
 * Product planning and documentation support
 * TÜBİTAK project work package management
+* Cursor
 
 ## Business Value
 
