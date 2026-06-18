@@ -28,12 +28,6 @@ Instead of relying only on manual listening and note-taking, the system aimed to
 
 This helped transform a process that could normally take several days into a more efficient workflow that could be completed in a much shorter time.
 
-## My Role
-
-I contributed to the product development process of the audit analysis platform by supporting the transformation of audit workflows into an AI-supported digital product.
-
-My role focused on understanding the business problem, contributing to the product flow, supporting how text and audio analysis outputs would be structured, and helping turn TheClico LLM service capabilities into a user-facing product experience.
-
 ## My Contributions
 
 * Contributed to the development of an LLM-supported audit analysis product
