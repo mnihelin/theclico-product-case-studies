@@ -49,6 +49,7 @@ The dashboards were designed to help users track key business metrics, understan
 * Product development workflows
 * GitHub
 * Data-driven productization
+* Claude Code
 
 ## Business Value
 
