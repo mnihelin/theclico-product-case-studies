@@ -8,7 +8,7 @@ AI / Text Classification / LLM Services / R&D Productization
 
 This case study summarizes my contribution to two separate TÜBİTAK-supported R&D projects developed at TheClico.
 
-The projects focused on fine-tuned text classification models capable of extracting multiple analytical perspectives from text-based inputs. I was involved from the project writing and planning stage and actively contributed across all TÜBİTAK work packages throughout the project lifecycle.
+The projects focused on fine-tuned text classification models capable of extracting multiple analytical perspectives from text-based inputs. I was involved from the project writing and planning stage and actively contributed across all TÜBİTAK work packages throughout the project lifecycle. 
 
 As the projects progressed, the outputs evolved into TheClico’s LLM services, which supported text-based analysis, classification, and AI-powered product development use cases.
 
@@ -50,7 +50,6 @@ This helped transform the models and TheClico LLM service outputs from technical
 * R&D productization processes
 * Product planning and documentation support
 * TÜBİTAK project work package management
-* Cursor
 
 ## Business Value
 
